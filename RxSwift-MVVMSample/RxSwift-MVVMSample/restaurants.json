@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Tokio Sity",
+		"cuisine": "japanese"
+	},
+	{
+		"name": "Fig & Olive",
+		"cuisine": "european"
+	},
+	{
+		"name": "Le Mercury",
+		"cuisine": "french"
+	},
+	{
+		"name": "Dishoom",
+		"cuisine": "indian"
+	},
+	{
+		"name": "Exis",
+		"cuisine": "japanese"
+	},
+	{
+		"name": "Wahaca",
+		"cuisine": "mexican"
+	},
+	{
+		"name": "The Isligton",
+		"cuisine": "european"
+	},
+	{
+		"name": "The Grand Brasserie",
+		"cuisine": "french"
+	},
+	{
+		"name": "Shalapin",
+		"cuisine": "russian"
+	},
+	{
+		"name": "The puberty",
+		"cuisine": "european"
+	},
+]
